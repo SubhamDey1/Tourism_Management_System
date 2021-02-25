@@ -2,6 +2,7 @@
 Tourism Management System Using PHP
 
 **Installation Steps(Configuration)
+
 **1. Download and Unzip file on your local system.
 
 **2. Put tms folder inside root directory.
